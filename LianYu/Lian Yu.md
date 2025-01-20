@@ -40,7 +40,7 @@ Now that you have the path to that specific file, give it a visit and you’d fi
 
 And if you had any experience with weird words, you’d probably have a hunch that it belongs to a family of weird words. (`base`)
 
-Head to [CybeChef](https://gchq.github.io/CyberChef/) and try out all possible variants of that family and you’d get a password that looks a little bit less weird.
+Head to [CyberChef](https://gchq.github.io/CyberChef/) and try out all possible variants of that family and you’d get a password that looks a little bit less weird.
 
 Now, in the other interesting webpage, you’d get the username that’s needed so pick it up. We will be needing these to get access to the  `ftp` server.
 
